@@ -4,3 +4,4 @@
 **.jar
 /check_directory
 /pom.xml
+T3/*.db
